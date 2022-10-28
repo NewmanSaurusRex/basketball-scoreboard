@@ -29,7 +29,7 @@ h3 {
 .container {
   display: flex;
   justify-content: space-around;
-  max-width: 55%;
+  max-width: 800px;
   height: 400px;
   margin: auto;
   background-color: #552583;
